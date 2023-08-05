@@ -99,6 +99,7 @@ TARGET_HW_DISK_ENCRYPTION := true
 TW_MAX_BRIGHTNESS := 1023
 BOARD_USES_QCOM_DECRYPTION := true
 TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/commonsys/cryptfs_hw
+TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
 # exFAT FS Support
 TW_INCLUDE_FUSE_EXFAT := true
