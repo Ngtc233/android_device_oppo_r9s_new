@@ -20,7 +20,6 @@ DEVICE_PATH := device/oppo/R9s
 
 # Architecture
 TARGET_ARCH := arm64
-TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
 TARGET_CPU_ABI := arm64-v8a
 TARGET_CPU_ABI2 :=
