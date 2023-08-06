@@ -107,5 +107,12 @@ TW_INCLUDE_FUSE_EXFAT := true
 # NTFS Support
 TW_INCLUDE_FUSE_NTFS := true
 
-
+# For building SHRP
+SHRP_DEVICE_CODE := R9s
+SHRP_PATH := device/oppo/R9s
+SHRP_MAINTAINER := Ngtc233
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A-Only
+SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_HAS_RECOVERY_PARTITION := true
 
