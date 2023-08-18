@@ -35,7 +35,7 @@ PRODUCT_PACKAGES += \
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := R9s
-PRODUCT_NAME := omni_R9s
+PRODUCT_NAME := R9s
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := OPPO R9s
 PRODUCT_MANUFACTURER := oppo
