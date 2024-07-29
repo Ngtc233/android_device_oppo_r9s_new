@@ -31,6 +31,4 @@ export OF_USE_SYSTEM_FINGERPRINT="1"
 export FOX_USE_BASH_SHELL=1
 export FOX_ASH_IS_BASH=1
 
-
-add_lunch_combo omni_R9s-userdebug
 add_lunch_combo omni_R9s-eng
