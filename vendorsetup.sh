@@ -19,6 +19,7 @@ export OF_FORCE_PREBUILT_KERNEL=1
 export OF_FL_PATH1=/sys/class/leds/led:torch_0
 export OF_FL_PATH2=/sys/class/leds/led:torch_1
 export OF_MAINTAINER=Ngtc233
+export OF_DISABLE_MIUI_SPECIFIC_FEATURES=1
 
 add_lunch_combo omni_R9s-userdebug
 add_lunch_combo omni_R9s-eng
