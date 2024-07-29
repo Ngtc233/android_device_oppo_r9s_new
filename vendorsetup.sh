@@ -16,8 +16,8 @@
 # limitations under the License.
 #
 export OF_FORCE_PREBUILT_KERNEL=1
-export OF_FL_PATH1=/sys/class/leds/led:torch_0
-export OF_FL_PATH2=/sys/class/leds/led:torch_1
+export OF_FL_PATH1=/sys/class/leds/led:flash_0
+export OF_FL_PATH2=/sys/class/leds/led:flash_1
 export OF_MAINTAINER=Ngtc233
 export FOX_VANILLA_BUILD=1
 export OF_DISABLE_OTA_MENU=1
